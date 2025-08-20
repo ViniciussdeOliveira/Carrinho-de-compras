@@ -32,7 +32,7 @@ O objetivo inicial era implementar um sistema de carrinho de compras, mas foram 
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/usuario/carrinhoCompras.git
+   git clone https://github.com/ViniciussdeOliveira/Carrinho-de-compras.git
    ```
 3. Entre na pasta do projeto:
 
